@@ -1,3 +1,8 @@
+
+## 📸 Project Demo
+
+![Personal AI Assistant Demo](images/image.png)
+
 # 🧠 JARVIS - Personal AI Assistant
 
 A sophisticated AI assistant built with Python, Streamlit, and Google's Gemini API, following Object-Oriented Programming principles.
